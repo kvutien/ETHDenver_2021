@@ -1,4 +1,6 @@
 # ETHDenver2021
+[![](https://img.shields.io/badge/license-MIT-green)](https://opensource.org/licenses/MIT)
+[![](https://img.shields.io/badge/project-machu----picchu-brightgreen)](https://github.com/Machu-Pichu/general.git)
 
 Machu Picchu entry for ETHDenver 2021 Feb 2021, updated Mar 2021.
 ## Contributing
